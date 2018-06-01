@@ -1,0 +1,183 @@
+1510823062975	geckodriver	INFO	geckodriver 0.19.1
+1510823062984	geckodriver	INFO	Listening on 127.0.0.1:38560
+1510823164449	geckodriver	INFO	geckodriver 0.19.1
+1510823164457	geckodriver	INFO	Listening on 127.0.0.1:38708
+1510824114574	geckodriver	INFO	geckodriver 0.19.1
+1510824114583	geckodriver	INFO	Listening on 127.0.0.1:39471
+1510824207240	geckodriver	INFO	geckodriver 0.19.1
+1510824207249	geckodriver	INFO	Listening on 127.0.0.1:39621
+1510824306077	geckodriver	INFO	geckodriver 0.19.1
+1510824306087	geckodriver	INFO	Listening on 127.0.0.1:39775
+1510824308166	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hanju\\AppData\\Local\\Temp\\rust_mozprofile.V4U1B0mhyBn5"
+1510824308479	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510824309397	Marionette	INFO	Enabled via --marionette
+1510824311793	Marionette	INFO	Listening on port 39781
+1510824311873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510824311916	Marionette	DEBUG	Register listener.js for window 4294967297
+1510824311950	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510824312109	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510824312110	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510824314241	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51zxw.net/"
+1510824315553	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1510824317237	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1510824317642	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1510824323810	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51zxw.net/"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510824326867	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51zxw.net/"
+1510824326916	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51zxw.net/"
+1510824326920	Marionette	DEBUG	Received DOM event "unload" for "http://www.51zxw.net/"
+1510824326979	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.baidu.com/"
+1510824326980	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967345"
+1510824326980	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967342"
+1510824326981	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1510824326981	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1510824326981	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1510824326981	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1510824326981	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1510824326982	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1510824326982	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1510824326982	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1510824326982	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1510824326983	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1510824326983	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1510824326983	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1510824326983	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1510824326983	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1510824327001	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.baidu.com/"
+[Child 13896] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13896] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510824361578	geckodriver	INFO	geckodriver 0.19.1
+1510824361587	geckodriver	INFO	Listening on 127.0.0.1:39910
+1510824363633	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hanju\\AppData\\Local\\Temp\\rust_mozprofile.QF49Hkut8L1T"
+1510824364555	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510824365377	Marionette	INFO	Enabled via --marionette
+1510824368122	Marionette	INFO	Listening on port 39916
+1510824368895	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510824368947	Marionette	DEBUG	Register listener.js for window 4294967297
+1510824368962	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510824369114	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510824369114	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510824372196	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51zxw.net/"
+1510824373883	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1510824374591	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1510824375127	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51zxw.net/"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510824378174	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51zxw.net/"
+1510824378652	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51zxw.net/"
+1510824378656	Marionette	DEBUG	Received DOM event "unload" for "http://www.51zxw.net/"
+1510824378794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967345"
+1510824378794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1510824378794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1510824378795	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1510824378795	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1510824378795	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1510824378796	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1510824378796	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1510824378796	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1510824378796	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1510824378796	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1510824378796	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1510824378797	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1510824378797	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1510824378797	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1510824378797	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1510824378970	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1510824379008	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1510825627155	geckodriver	INFO	geckodriver 0.19.1
+1510825627173	geckodriver	INFO	Listening on 127.0.0.1:41568
+1510825629150	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\hanju\\AppData\\Local\\Temp\\rust_mozprofile.3zN7yVLBITau"
+1510825630404	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510825631161	Marionette	INFO	Enabled via --marionette
+[Child 13224] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13224] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510825634161	Marionette	INFO	Listening on port 41576
+1510825634408	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510825634447	Marionette	DEBUG	Register listener.js for window 4294967297
+1510825634541	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510825634693	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510825634693	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510825637846	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51zxw.net/"
+1510825639057	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1510825640775	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967335"
+1510825640876	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967339"
+1510825646599	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51zxw.net/"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510825648665	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51zxw.net/"
+1510825648753	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51zxw.net/"
+1510825648757	Marionette	DEBUG	Received DOM event "unload" for "http://www.51zxw.net/"
+1510825648899	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967341"
+1510825648899	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1510825648899	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1510825648900	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967333"
+1510825648900	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1510825648900	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1510825648900	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1510825648901	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967337"
+1510825648901	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1510825648901	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1510825648901	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1510825648901	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1510825648901	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1510825648902	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1510825649084	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51zxw.net/list.aspx?cid=615"
+1510825649652	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51zxw.net/list.aspx?cid=615"
+1510825649750	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51zxw.net/list.aspx?cid=615"
+1510825649990	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51zxw.net/list.aspx?cid=615"
+1510825649991	Marionette	DEBUG	Received DOM event "unload" for "http://www.51zxw.net/list.aspx?cid=615"
+1510825650258	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967344"
+1510825650262	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967352"
+1510825650263	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967346"
+1510825650263	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967354"
+1510825650263	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967347"
+1510825650263	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967355"
+1510825650263	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967348"
+1510825650393	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51zxw.net/list.aspx?cid=615"
+1510825651500	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51zxw.net/list.aspx?cid=615"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510825653515	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51zxw.net/list.aspx?cid=615"
+1510825653554	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51zxw.net/list.aspx?cid=615"
+1510825653555	Marionette	DEBUG	Received DOM event "unload" for "http://www.51zxw.net/list.aspx?cid=615"
+1510825653734	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967359"
+1510825653734	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967368"
+1510825653734	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967361"
+1510825653734	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967362"
+1510825653734	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967370"
+1510825653735	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967363"
+1510825654060	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51zxw.net/"
+1510825675942	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967410"
+1510825675990	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967412"
+1510825676253	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51zxw.net/"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1510825678313	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.51zxw.net/"
+1510825678346	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.51zxw.net/"
+1510825678349	Marionette	DEBUG	Received DOM event "unload" for "http://www.51zxw.net/"
+1510825678469	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967421"
+1510825678469	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967416"
+1510825678469	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967375"
+1510825678469	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967379"
+1510825678470	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967398"
+1510825678470	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967406"
+1510825678470	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967381"
+1510825678470	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967376"
+1510825678470	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967400"
+1510825678471	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967408"
+1510825678471	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967389"
+1510825678471	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967382"
+1510825678471	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967404"
+1510825678471	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967414"
+1510825678471	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967394"
+1510825678471	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967386"
+1510825678471	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967390"
+1510825678472	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967385"
+1510825678521	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.51zxw.net/list.aspx?cid=615"
+1510825678851	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.51zxw.net/list.aspx?cid=615"
+1510825680860	Marionette	INFO	New connections will no longer be accepted
